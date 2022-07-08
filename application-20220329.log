@@ -1,0 +1,6 @@
+2022-03-29 08:50:37.449 [main] INFO  com.pscmr.main.HomePage - logged into customer
+2022-03-29 08:55:10.686 [main] INFO  com.pscmr.main.HomePage - logged into customer
+2022-03-29 09:02:09.292 [main] INFO  com.pscmr.main.HomePage - logged into customer
+2022-03-29 09:08:24.911 [main] INFO  com.pscmr.main.HomePage - logged into customer
+2022-03-29 09:08:42.419 [main] INFO  com.pscmr.main.CustomerServices - chedking bank balance
+2022-03-29 09:08:42.450 [main] INFO  com.pscmr.main.CustomerServices - successfully fetched balance
