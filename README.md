@@ -11,4 +11,13 @@
 <li>Log4J</li>
 <li>Git</li>
 </ul>
-<h2>Features<h2>
+<h2>Features</h2>
+<ul>
+<li>Opening BankAccount</li>
+<li>Deposit Money</li>
+<li>Withdraw Money</li>
+<li>Transfer Money</li>
+<li>View All Transactions</li>
+</ul>
+<h2>Usage</h2>
+   Download the source code from github and then extract the source code into your computer by creating one folder  after that you have to import your project into Eclipse and run the application
