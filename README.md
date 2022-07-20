@@ -14,9 +14,13 @@
 <h2>Features</h2>
 <ul>
 <li>Opening BankAccount</li>
-<li>Deposit Money</li>
-<li>Withdraw Money</li>
-<li>Transfer Money</li>
+<li>Customer Login<li>
+<li>Employee Login<li>
+<li>Employee Approval<li>
+ <li>Depositing Money</li>
+<li>Withdrawing Money</li>
+<li>Balance Checking<li>
+<li>Money Transfering</li>
 <li>View All Transactions</li>
 </ul>
 <h2>Usage</h2>
